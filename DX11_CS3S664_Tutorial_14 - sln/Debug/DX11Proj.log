@@ -1,0 +1,29 @@
+﻿  compilation object save succeeded; see C:\Users\Carl\Desktop\RTR\19_20\week14\DX11_CS3S664_Tutorial_14 - sln\DX11_CS3S664_Tutorial_14 - sln\Shaders\cso\basic_colour_ps.cso
+  compilation object save succeeded; see C:\Users\Carl\Desktop\RTR\19_20\week14\DX11_CS3S664_Tutorial_14 - sln\DX11_CS3S664_Tutorial_14 - sln\Shaders\cso\basic_colour_vs.cso
+  compilation object save succeeded; see C:\Users\Carl\Desktop\RTR\19_20\week14\DX11_CS3S664_Tutorial_14 - sln\DX11_CS3S664_Tutorial_14 - sln\Shaders\cso\basic_lighting_vs.cso
+  compilation object save succeeded; see C:\Users\Carl\Desktop\RTR\19_20\week14\DX11_CS3S664_Tutorial_14 - sln\DX11_CS3S664_Tutorial_14 - sln\Shaders\cso\basic_texture_ps.cso
+  compilation object save succeeded; see C:\Users\Carl\Desktop\RTR\19_20\week14\DX11_CS3S664_Tutorial_14 - sln\DX11_CS3S664_Tutorial_14 - sln\Shaders\cso\basic_texture_vs.cso
+  stdafx.cpp
+  Animation.cpp
+c:\users\carl\desktop\rtr\19_20\week14\dx11_cs3s664_tutorial_14 - sln\dx11_cs3s664_tutorial_14 - sln\source\animation.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BaseModel.cpp
+  Box.cpp
+  Camera.cpp
+  Effect.cpp
+  CGDConsole.cpp
+  Scene.cpp
+c:\users\carl\desktop\rtr\19_20\week14\dx11_cs3s664_tutorial_14 - sln\dx11_cs3s664_tutorial_14 - sln\source\scene.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\carl\desktop\rtr\19_20\week14\dx11_cs3s664_tutorial_14 - sln\dx11_cs3s664_tutorial_14 - sln\source\scene.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+  System.cpp
+  CGDClock.cpp
+  GUMemory.cpp
+  main.cpp
+  Material.cpp
+  Mesh.cpp
+  Texture.cpp
+  Triangle.cpp
+  Utils.cpp
+  Generating Code...
+c:\users\carl\desktop\rtr\19_20\week14\dx11_cs3s664_tutorial_14 - sln\dx11_cs3s664_tutorial_14 - sln\source\triangle.cpp(77): warning C4715: 'Triangle::init': not all control paths return a value
+c:\users\carl\desktop\rtr\19_20\week14\dx11_cs3s664_tutorial_14 - sln\dx11_cs3s664_tutorial_14 - sln\source\box.cpp(153): warning C4715: 'Box::init': not all control paths return a value
+  DX11Proj.vcxproj -> C:\Users\Carl\Desktop\RTR\19_20\week14\DX11_CS3S664_Tutorial_14 - sln\DX11_CS3S664_Tutorial_14 - sln\Debug\DX11Proj.exe
